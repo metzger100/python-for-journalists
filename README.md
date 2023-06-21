@@ -30,6 +30,8 @@ Das Seminar ist in vier Blöcke aufgeteilt:
 
 Jeder der Blöcke umfasst etwa drei Wochen. 
 
+Alle Videos gibt es unten oder in dieser [Playlist auf Youtube](https://www.youtube.com/playlist?list=PLka6rvUaSzv8oUR9MJN4ki0QoKNNNVmKP).
+
 ## Prüfungsleistung
 
 Benotet wird ein kurzer Artikel, der mit den Methoden entstanden ist, die wir hier im Seminar kennengelernt haben. Die genaue Zusammensetzung der Benotung und die Gewichtung von Code zu Artikel erfahrt ihr später im Semester.
@@ -132,56 +134,63 @@ Scraper sind kleine Programme, die uns helfen Daten aus dem Internet herunterzul
 
 ### Beautiful Soup
 
-17. Mai
-
-| Materialien | 
-|----------|
-| :clapper:  |
-| :green_book: [Notebook](lessons/Scraper_Beautiful_Soup.ipynb) | 
-| :blue_book: Übung |
-
-### Selenium
-
 24. Mai
 
 | Materialien | 
 |----------|
-| :clapper:  |
-| :green_book: [Notebook](lessons/Scraper_Selenium.ipynb) | 
-| :blue_book: Übung |
+| :clapper: [Video](https://youtu.be/h2c3VVUsA84)  |
+| :green_book: [Notebook](lessons/Scraper_Beautiful_Soup.ipynb) | 
+| :blue_book: [Übung](exercises/ScraperBS4.ipynb) |
 
-## Visualisierung mit Datawrapper
-
-[Datawrapper](https://www.datawrapper.de/) ist ein Online-Tool, um Daten einfach zu visualisieren und zu veröffentlichen. Wir veröffentlichen Diagramme und Karten.
-
-### Diagramme
+### Selenium
 
 31. Mai
 
 | Materialien | 
 |----------|
-| :clapper: Video |
-| :green_book: Notebook | 
-| :blue_book: Übung |
+| :clapper: [Video](https://youtu.be/T-n0MlOa_xA) |
+| :green_book: [Notebook](lessons/Scraper_Selenium.ipynb) | 
+| :blue_book: [Übung](exercises/UebungScraperSelenium.ipynb) |
 
-### Karten
+## Visualisierung mit Datawrapper
+
+[Datawrapper](https://www.datawrapper.de/) ist ein Online-Tool, um Daten einfach zu visualisieren und zu veröffentlichen. Wir erstellen Diagramme und Karten.
+
+### Diagramme und Karten
 
 07. Juni
 
 | Materialien | 
 |----------|
-| :clapper:  |
-| :green_book: [Notebook](lessons/Mapping.ipynb) | 
-| :blue_book: Übung |
+| :clapper: [Video](https://youtu.be/TKy-VcVseRo) |
+| :green_book: [Notebook](lessons/VisualisierungDatawrapper.ipynb) | 
+| :blue_book: [Übung](exercises/ÜbungVisualisierungDatawrapper.ipynb) |
 
-## Journalismus
+## Prüfungsleistung
 
-### Wie mache ich damit jetzt Journalismus?
+## Prüfungsvorbereitung
 
 14. Juni
 
 | Materialien | 
 |----------|
-| :clapper:  |
-| :green_book: Notebook | 
-| :blue_book: Übung |
+| 📕: [Probeklausur](exercises/ProbeklausurFahrradMUC.ipynb) |
+| 📖: Lösung |
+
+21. Juni 
+
+Besprechung Probeklausur
+
+28. Juni
+
+Fragestunde und Feedbackrunde
+
+## Prüfungszeitraum
+
+Prüfungszeitraum:
+03. Juli - 07. Juli
+
+| Materialien | 
+|----------|
+| 📕: Klausur |
+
