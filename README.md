@@ -175,7 +175,7 @@ Scraper sind kleine Programme, die uns helfen Daten aus dem Internet herunterzul
 | Materialien | 
 |----------|
 | 📕: [Probeklausur](exercises/ProbeklausurFahrradMUC.ipynb) |
-| 📖: Lösung |
+| 📖: [Lösung](exercises/solutions/ProbeklausurFahrradMUC_Solution.ipynb) |
 
 21. Juni 
 
@@ -190,7 +190,9 @@ Fragestunde und Feedbackrunde
 Prüfungszeitraum:
 03. Juli - 07. Juli
 
+Deadline für die Abgabe ist der 07. Juli um 18:00 Uhr
+
 | Materialien | 
 |----------|
-| 📕: Klausur |
+| 📕: [Klausur](exercises/PruefungsleistungPfJ23.ipynb) |
 
